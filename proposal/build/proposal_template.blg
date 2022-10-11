@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/Homebrew)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: proposal_template.aux
+The style file: plain.bst
+Database file #1: bibfile.bib
+Warning--can't use both author and editor fields in T08
+You've used 6 entries,
+            2118 wiz_defined-function locations,
+            539 strings with 4760 characters,
+and the built_in function-call counts, 1668 in all, are:
+= -- 157
+> -- 54
+< -- 2
++ -- 24
+- -- 16
+* -- 92
+:= -- 277
+add.period$ -- 19
+call.type$ -- 6
+change.case$ -- 24
+chr.to.int$ -- 0
+cite$ -- 7
+duplicate$ -- 75
+empty$ -- 153
+format.name$ -- 16
+if$ -- 359
+int.to.chr$ -- 0
+int.to.str$ -- 6
+missing$ -- 8
+newline$ -- 34
+num.names$ -- 12
+pop$ -- 39
+preamble$ -- 1
+purify$ -- 20
+quote$ -- 0
+skip$ -- 53
+stack$ -- 0
+substring$ -- 87
+swap$ -- 17
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 18
+warning$ -- 1
+while$ -- 15
+width$ -- 7
+write$ -- 67
+(There was 1 warning)
