@@ -1188,7 +1188,7 @@
     "departmentID": "FMMC"
   },
   {
-    "courseDescription": "Aesthetics, Theories and Practice of Film Editing* The editing of film and television content is often compared to screenwriting – and referred to as a \"third writing\". In this class we will examine the history, aesthetic and theory of film editing, discuss editing techniques and apply them in several take  home exercises. The class focuses on editing's importance in storytelling and on the strategies that editors use to create tension, relationships, emotion and meaning. We will also explore filmmaking techniques that conceptually relate to editing such as long takes, staging, lighting design, camera movement. Some of the films we will study: The Conversation, Do the right thing, Stories we tell, The Nile Hilton incident.  While the class is only marginally touching on technology,  access to a computer with certain technical capabilities and to editing software is necessary; if you are on campus, they are provided to you by the department (software also provided remotely). For class screenings, you also need access to an internet connection with video streaming capability. Familiarity with Adobe Premiere editing software recommended.",
+    "courseDescription": "Aesthetics, Theories and Practice of Film Editing* The editing of film and television content is often compared to screenwriting   and referred to as a \"third writing\". In this class we will examine the history, aesthetic and theory of film editing, discuss editing techniques and apply them in several take  home exercises. The class focuses on editing's importance in storytelling and on the strategies that editors use to create tension, relationships, emotion and meaning. We will also explore filmmaking techniques that conceptually relate to editing such as long takes, staging, lighting design, camera movement. Some of the films we will study: The Conversation, Do the right thing, Stories we tell, The Nile Hilton incident.  While the class is only marginally touching on technology,  access to a computer with certain technical capabilities and to editing software is necessary; if you are on campus, they are provided to you by the department (software also provided remotely). For class screenings, you also need access to an internet connection with video streaming capability. Familiarity with Adobe Premiere editing software recommended.",
     "courseID": "FMMC0301",
     "courseName": "Editing the Moving Image",
     "departmentID": "FMMC"
@@ -1416,7 +1416,7 @@
     "departmentID": "GREK"
   },
   {
-    "courseDescription": "Advanced Readings in Greek Literature II: Greek Cosmology–Hesiod and Plato Readings in major authors.",
+    "courseDescription": "Advanced Readings in Greek Literature II: Greek Cosmology Hesiod and Plato Readings in major authors.",
     "courseID": "GREK0402",
     "courseName": "Adv Readings Greek Literature",
     "departmentID": "GREK"
@@ -1512,7 +1512,7 @@
     "departmentID": "GSFS"
   },
   {
-    "courseDescription": "Gender, Technology, and the Future Can technology make the world more just and equitable? Scientific and technological inventions continually surprise us with visions of the future that promise an end to global inequality and injustice: cooking robots, microcredit apps, test–tube babies. We will center these powerful ideas to unpack how they galvanize raced and sexed bodies to articulate the future. Through an introduction to the interdisciplinary field of science and technology studies we will ask how technological imaginations and interventions invent new global futures, examine their impact and implications, and explore the possibilities for new technological horizons.",
+    "courseDescription": "Gender, Technology, and the Future Can technology make the world more just and equitable? Scientific and technological inventions continually surprise us with visions of the future that promise an end to global inequality and injustice: cooking robots, microcredit apps, test tube babies. We will center these powerful ideas to unpack how they galvanize raced and sexed bodies to articulate the future. Through an introduction to the interdisciplinary field of science and technology studies we will ask how technological imaginations and interventions invent new global futures, examine their impact and implications, and explore the possibilities for new technological horizons.",
     "courseID": "GSFS0308",
     "courseName": "Gender, Technology & Future",
     "departmentID": "GSFS"
@@ -1542,7 +1542,7 @@
     "departmentID": "GSFS"
   },
   {
-    "courseDescription": "The U.S. Politics of Race, Gender, and Class Race, gender, and class have long shaped American politics. They have formed the basis for social movements, have structured institutions, and have affected the way political actors–from voters to activists to elected officials–have made their day  to  day decisions. What do political scientists know about the roles that race, gender, and class play in politics, separately and together, and what do we yet have to learn?",
+    "courseDescription": "The U.S. Politics of Race, Gender, and Class Race, gender, and class have long shaped American politics. They have formed the basis for social movements, have structured institutions, and have affected the way political actors from voters to activists to elected officials have made their day  to  day decisions. What do political scientists know about the roles that race, gender, and class play in politics, separately and together, and what do we yet have to learn?",
     "courseID": "GSFS0458",
     "courseName": "Race, Gender, & Class Politics",
     "departmentID": "GSFS"
@@ -2196,7 +2196,7 @@
     "departmentID": "MUSC"
   },
   {
-    "courseDescription": "What in the World is Music? In this course we will explore global musical cultures in order to better understand both those musical cultures and our own in relation to one another. The course has two goals: to introduce students to unfamiliar ways of listening to and thinking about different elements of music (including – but not limited to – rhythm, melody, timbre, texture, harmony, and form); and to develop skills for appreciating cultural significances of these elements.  We will achieve these goals through readings, lectures, discussions, film screenings, listening sessions, workshops, concerts, and hands  on activities.",
+    "courseDescription": "What in the World is Music? In this course we will explore global musical cultures in order to better understand both those musical cultures and our own in relation to one another. The course has two goals: to introduce students to unfamiliar ways of listening to and thinking about different elements of music (including   but not limited to   rhythm, melody, timbre, texture, harmony, and form); and to develop skills for appreciating cultural significances of these elements.  We will achieve these goals through readings, lectures, discussions, film screenings, listening sessions, workshops, concerts, and hands  on activities.",
     "courseID": "MUSC0134",
     "courseName": "What in the World is Music?",
     "departmentID": "MUSC"
@@ -2604,7 +2604,7 @@
     "departmentID": "PSCI"
   },
   {
-    "courseDescription": "The U.S. Politics of Race, Gender, and Class Race, gender, and class have long shaped American politics. They have formed the basis for social movements, have structured institutions, and have affected the way political actors–from voters to activists to elected officials–have made their day  to  day decisions. What do political scientists know about the roles that race, gender, and class play in politics, separately and together, and what do we yet have to learn?",
+    "courseDescription": "The U.S. Politics of Race, Gender, and Class Race, gender, and class have long shaped American politics. They have formed the basis for social movements, have structured institutions, and have affected the way political actors from voters to activists to elected officials have made their day  to  day decisions. What do political scientists know about the roles that race, gender, and class play in politics, separately and together, and what do we yet have to learn?",
     "courseID": "PSCI0458",
     "courseName": "Race, Gender, & Class Politics",
     "departmentID": "PSCI"
@@ -2880,7 +2880,7 @@
     "departmentID": "SOCI"
   },
   {
-    "courseDescription": "Deviance and Social Control  This course will introduce students to sociological perspectives on the nature, causes and control of deviant behavior and populations. We will consider, historically and theoretically, the construction of deviance, the social purpose it serves, and the societal response deviance engenders. We will pay special attention to the ways in which the deviant body is constructed and managed through a variety of frameworks – including medical, punitive and therapeutic    and reflect critically on the social and political ramifications of the categorizations \"deviant\" and \"normal\".",
+    "courseDescription": "Deviance and Social Control  This course will introduce students to sociological perspectives on the nature, causes and control of deviant behavior and populations. We will consider, historically and theoretically, the construction of deviance, the social purpose it serves, and the societal response deviance engenders. We will pay special attention to the ways in which the deviant body is constructed and managed through a variety of frameworks   including medical, punitive and therapeutic    and reflect critically on the social and political ramifications of the categorizations \"deviant\" and \"normal\".",
     "courseID": "SOCI0288",
     "courseName": "Deviance and Social Control",
     "departmentID": "SOCI"
@@ -2976,7 +2976,7 @@
     "departmentID": "SPAN"
   },
   {
-    "courseDescription": "Hispanic Performance Studies Performance studies is an interdisciplinary field that borrows from theatre studies, anthropology, sociology, and cultural studies. This course offers an introduction to performance studies through a focus on Hispanic culture. We will ask the question \"What is performance?\" and develop the tools to describe, analyze, and interpret a broad range of performances such as plays, political speeches, bullfights, protests, recordings, celebrations, and everyday encounters.  We will focus on performance as a process–oriented, participatory, and experiential way of engaging the world. We will concentrate on the overlapping aspects of performance as/of literature (poetry and drama), as/of everyday life (ritual, identity, and culture), and as/of politics (power, activism, and social change).  We will pay particular attention to the relationship of performance to social culture, investigating the link between performance and race, gender, and sexuality.   Because the goal of the course is to produce critical thinkers who are capable of using performance as an analytical tool and as part of a creative process, students will be required to perform.",
+    "courseDescription": "Hispanic Performance Studies Performance studies is an interdisciplinary field that borrows from theatre studies, anthropology, sociology, and cultural studies. This course offers an introduction to performance studies through a focus on Hispanic culture. We will ask the question \"What is performance?\" and develop the tools to describe, analyze, and interpret a broad range of performances such as plays, political speeches, bullfights, protests, recordings, celebrations, and everyday encounters.  We will focus on performance as a process oriented, participatory, and experiential way of engaging the world. We will concentrate on the overlapping aspects of performance as/of literature (poetry and drama), as/of everyday life (ritual, identity, and culture), and as/of politics (power, activism, and social change).  We will pay particular attention to the relationship of performance to social culture, investigating the link between performance and race, gender, and sexuality.   Because the goal of the course is to produce critical thinkers who are capable of using performance as an analytical tool and as part of a creative process, students will be required to perform.",
     "courseID": "SPAN0336",
     "courseName": "Hispanic Performance Studies",
     "departmentID": "SPAN"
@@ -3330,7 +3330,7 @@
     "departmentID": "BIOL"
   },
   {
-    "courseDescription": "Mammalogy Thanks to a rogue asteroid, we now live in the Age of Mammals. Mammals fulfill important ecological roles and have adapted to a wide range of habitats – flying, swimming, and scurrying their way to survival. Mammals are also central to numerous livelihoods and cultural practices. We will use the phylogeny of mammals globally to build expertise with evolutionary concepts. Locally, we will work within Vermont to develop a field  based toolkit for studying wild mammals. Experiential learning opportunities may include preparation of salvaged animals, non  invasive monitoring, engagement with trappers/hunters, and introduction to molecular techniques.",
+    "courseDescription": "Mammalogy Thanks to a rogue asteroid, we now live in the Age of Mammals. Mammals fulfill important ecological roles and have adapted to a wide range of habitats   flying, swimming, and scurrying their way to survival. Mammals are also central to numerous livelihoods and cultural practices. We will use the phylogeny of mammals globally to build expertise with evolutionary concepts. Locally, we will work within Vermont to develop a field  based toolkit for studying wild mammals. Experiential learning opportunities may include preparation of salvaged animals, non  invasive monitoring, engagement with trappers/hunters, and introduction to molecular techniques.",
     "courseID": "BIOL0308",
     "courseName": "Mammalogy",
     "departmentID": "BIOL"
@@ -3396,7 +3396,7 @@
     "departmentID": "BLST"
   },
   {
-    "courseDescription": "African American Activism in Education In this course we will examine how Black activists have fought against inequity and contributed to social change in and through education. After discussing fights for access to education – and the use of education for change – in the 19th and early 20th century, we will focus on the Civil Rights and Black Power Era. We will examine struggles for desegregation, integration and community control, initiatives such as the Mississippi Freedom Schools and independent Black Power schools, as well as activism on college campuses. We will conclude by contextualizing current struggles in education within the long fight for Black freedom and equal education.",
+    "courseDescription": "African American Activism in Education In this course we will examine how Black activists have fought against inequity and contributed to social change in and through education. After discussing fights for access to education   and the use of education for change   in the 19th and early 20th century, we will focus on the Civil Rights and Black Power Era. We will examine struggles for desegregation, integration and community control, initiatives such as the Mississippi Freedom Schools and independent Black Power schools, as well as activism on college campuses. We will conclude by contextualizing current struggles in education within the long fight for Black freedom and equal education.",
     "courseID": "BLST0304",
     "courseName": "Af Am Activism in Education",
     "departmentID": "BLST"
@@ -4056,7 +4056,7 @@
     "departmentID": "FYSE"
   },
   {
-    "courseDescription": "Once Upon a Time – Folk Fairy Tales of the World Tell me a story! We will examine the complex, inter  connected folk fairy tale traditions found in every society. Comparing fairy tale variants from around the world, we will explore their convoluted and fertile relationships as observed in the rise of fairytale collections in 15th Century Europe, reaching a culmination in the Brothers Grimm collection, often synonymous with the fairy tale itself.  To attain a more dispassionate critical stance we will explore theoretical approaches to the fairy tales by such authers as Jack Zipes, Ruth Bottigheimer, Maria Tatar, and Kay Stone, and conclude by examining modern variants in prose, poetry, and film.",
+    "courseDescription": "Once Upon a Time   Folk Fairy Tales of the World Tell me a story! We will examine the complex, inter  connected folk fairy tale traditions found in every society. Comparing fairy tale variants from around the world, we will explore their convoluted and fertile relationships as observed in the rise of fairytale collections in 15th Century Europe, reaching a culmination in the Brothers Grimm collection, often synonymous with the fairy tale itself.  To attain a more dispassionate critical stance we will explore theoretical approaches to the fairy tales by such authers as Jack Zipes, Ruth Bottigheimer, Maria Tatar, and Kay Stone, and conclude by examining modern variants in prose, poetry, and film.",
     "courseID": "FYSE1511",
     "courseName": "Folk Fairy Tales of the World",
     "departmentID": "FYSE"
@@ -4116,13 +4116,13 @@
     "departmentID": "FYSE"
   },
   {
-    "courseDescription": "Great Ideas in Economics The current 4th industrial revolution is changing lives in mundane and profound ways. The set of cooperative and competing interactions among humans, machines, and nature will shape lives in ways that we have just begun to comprehend. There has been \"production, buying, selling, and trading\" of goods and services since time immemorial –   why then does the formal study of \"economics\" as a discipline start only from around the 17th century with the onset of the 1st Industrial Revolution?  This course introduces students to our most influential economists, their ideas, and their impact upon economics, policy, and intellectual history. We will engage in serious thinking, writing, and discussion about the great economics questions of our age.",
+    "courseDescription": "Great Ideas in Economics The current 4th industrial revolution is changing lives in mundane and profound ways. The set of cooperative and competing interactions among humans, machines, and nature will shape lives in ways that we have just begun to comprehend. There has been \"production, buying, selling, and trading\" of goods and services since time immemorial     why then does the formal study of \"economics\" as a discipline start only from around the 17th century with the onset of the 1st Industrial Revolution?  This course introduces students to our most influential economists, their ideas, and their impact upon economics, policy, and intellectual history. We will engage in serious thinking, writing, and discussion about the great economics questions of our age.",
     "courseID": "FYSE1576",
     "courseName": "Great Ideas in Economics",
     "departmentID": "FYSE"
   },
   {
-    "courseDescription": "Schools and Inequality In this course we will explore fundamental questions about the relationship between schools and society. What should be the normative goals of education? How do we explain educational disparities? We will look at theories on race, class, disability, gender, and sexuality to examine the role that schools play in reproducing or circumventing inequality in society. Drawing upon both domestic and international contexts, we will incorporate theories and methods from across the social sciences.",
+    "courseDescription": "Schools and Inequality In this course we will explore fundamental questions about the relationship between schools and society. What should be the normative goals of education? How do we explain educational disparities? We will look at theories on race, class, disability, gender, and sexuality to examine the role that schools play in reproducing or circumventing inequality in society. Drawing upon both domestic and international contexts, we will incorporate theories and methods from across the social sciences.",
     "courseID": "FYSE1577",
     "courseName": "Schools and Inequality",
     "departmentID": "FYSE"
@@ -4164,7 +4164,7 @@
     "departmentID": "FYSE"
   },
   {
-    "courseDescription": "How Money Makes the World Go Round Our society is structured around money – how to get it, how to spend it, how to amass it.  Power comes easily to those with more than their fair share of it, and powerlessness plagues those without it.  In this seminar we will study key aspects of the financial system, while examining the inherent biases, inequity, and unfairness within the institutions we rely on.  We will explore ideas about how to address those impediments through readings devoted to current events, personal memoirs, and essays.  Our discussions will illuminate the problematic way that money makes the world go round, while we also learn to navigate our own personal financial journey.",
+    "courseDescription": "How Money Makes the World Go Round Our society is structured around money   how to get it, how to spend it, how to amass it.  Power comes easily to those with more than their fair share of it, and powerlessness plagues those without it.  In this seminar we will study key aspects of the financial system, while examining the inherent biases, inequity, and unfairness within the institutions we rely on.  We will explore ideas about how to address those impediments through readings devoted to current events, personal memoirs, and essays.  Our discussions will illuminate the problematic way that money makes the world go round, while we also learn to navigate our own personal financial journey.",
     "courseID": "FYSE1585",
     "courseName": "HowMoney MakesWorld Go Round",
     "departmentID": "FYSE"
@@ -4620,7 +4620,7 @@
     "departmentID": "IGST"
   },
   {
-    "courseDescription": "Women prisoners in Stalin's labor camps    from lawlessness to rehabilitation: based on E.S. Ginzburg's memoires The course is based on E.S. Ginzburg's memoir \"Into the Whirlwind\". The unique feature of this source is that it gives a detailed description of each trial a common USSR citizen would have to undergo in the 1930s – early 1950s once they had been suspected of committing a political crime. Written by a woman, whose fate was much harder than that of male prisoners, it also gives particular attention to the problem of deprivation of the right to have a family and parent your children in the totalitarian Soviet State.",
+    "courseDescription": "Women prisoners in Stalin's labor camps    from lawlessness to rehabilitation: based on E.S. Ginzburg's memoires The course is based on E.S. Ginzburg's memoir \"Into the Whirlwind\". The unique feature of this source is that it gives a detailed description of each trial a common USSR citizen would have to undergo in the 1930s   early 1950s once they had been suspected of committing a political crime. Written by a woman, whose fate was much harder than that of male prisoners, it also gives particular attention to the problem of deprivation of the right to have a family and parent your children in the totalitarian Soviet State.",
     "courseID": "IGST2389",
     "courseName": "Wom Prisoners Stalin Lbr Camps",
     "departmentID": "IGST"
@@ -5478,7 +5478,7 @@
     "departmentID": "ANTH"
   },
   {
-    "courseDescription": "Empowerment or Exploitation? Engaging Communities in the Pursuit of Better Health Sustained progress in global health and development requires the participation of target communities. Vaccines, for instance, will themselves do no good if caregivers refuse to vaccinate their children. In this course, we will explore the role of communities in the pursuit of improved health – a state often pre  defined by outsiders without direct community consultation. The course will focus specifically on the evolving role of community health workers within global health and development agendas, emphasizing therein the fine line we tread (as global health policy makers, implementers, and donors) between empowering and exploiting the communities on whose participation our success relies.",
+    "courseDescription": "Empowerment or Exploitation? Engaging Communities in the Pursuit of Better Health Sustained progress in global health and development requires the participation of target communities. Vaccines, for instance, will themselves do no good if caregivers refuse to vaccinate their children. In this course, we will explore the role of communities in the pursuit of improved health   a state often pre  defined by outsiders without direct community consultation. The course will focus specifically on the evolving role of community health workers within global health and development agendas, emphasizing therein the fine line we tread (as global health policy makers, implementers, and donors) between empowering and exploiting the communities on whose participation our success relies.",
     "courseID": "ANTH1224",
     "courseName": "Communities in Global Health",
     "departmentID": "ANTH"
@@ -5520,7 +5520,7 @@
     "departmentID": "CHNS"
   },
   {
-    "courseDescription": "Writing the Self  Memoir, reportage, criticism, essays: creative nonfiction holds it all. In this course we will read a range of nonfiction, from in  depth journalism to personal essays and memoir excerpts. We will use our own experiences to write in class and out, and we will share our work together. We'll ask of our readings and ourselves, how does the \"I\" work? We'll read diverse experiences and perspectives to ask how personal experience can enlighten – or detract from – larger themes or issues. Readings include nonfiction by Alexander Chee, Hilton Als, Kiese Laymon, Durga Chew  Bose, Leslie Jamison, Esme Weijung Wang, James Baldwin, and more.",
+    "courseDescription": "Writing the Self  Memoir, reportage, criticism, essays: creative nonfiction holds it all. In this course we will read a range of nonfiction, from in  depth journalism to personal essays and memoir excerpts. We will use our own experiences to write in class and out, and we will share our work together. We'll ask of our readings and ourselves, how does the \"I\" work? We'll read diverse experiences and perspectives to ask how personal experience can enlighten   or detract from   larger themes or issues. Readings include nonfiction by Alexander Chee, Hilton Als, Kiese Laymon, Durga Chew  Bose, Leslie Jamison, Esme Weijung Wang, James Baldwin, and more.",
     "courseID": "CRWR1012",
     "courseName": "Writing the Self",
     "departmentID": "CRWR"
@@ -5748,7 +5748,7 @@
     "departmentID": "GHLT"
   },
   {
-    "courseDescription": "Empowerment or Exploitation? Engaging Communities in the Pursuit of Better Health Sustained progress in global health and development requires the participation of target communities. Vaccines, for instance, will themselves do no good if caregivers refuse to vaccinate their children. In this course, we will explore the role of communities in the pursuit of improved health – a state often pre  defined by outsiders without direct community consultation. The course will focus specifically on the evolving role of community health workers within global health and development agendas, emphasizing therein the fine line we tread (as global health policy makers, implementers, and donors) between empowering and exploiting the communities on whose participation our success relies.",
+    "courseDescription": "Empowerment or Exploitation? Engaging Communities in the Pursuit of Better Health Sustained progress in global health and development requires the participation of target communities. Vaccines, for instance, will themselves do no good if caregivers refuse to vaccinate their children. In this course, we will explore the role of communities in the pursuit of improved health   a state often pre  defined by outsiders without direct community consultation. The course will focus specifically on the evolving role of community health workers within global health and development agendas, emphasizing therein the fine line we tread (as global health policy makers, implementers, and donors) between empowering and exploiting the communities on whose participation our success relies.",
     "courseID": "GHLT1224",
     "courseName": "Communities in Global Health",
     "departmentID": "GHLT"
@@ -5850,7 +5850,7 @@
     "departmentID": "HIST"
   },
   {
-    "courseDescription": "Chronicling COVID  19: Capturing the Pandemic Experience in Vermont The COVID  19 pandemic has altered our lives and challenged the way our communities and institutions operate.  The availability of vaccines has made it possible to gain some perspective on COVID and its impact.  In this course we will work as chroniclers and interpreters of the local community's responses to COVID.  In addition to situating COVID among other notable public health emergencies in Vermont – the 1918 pandemic, the 1927 flood, and the 2011 Irene disaster – we will explore the experiences of Addison County residents as they navigated this pandemic.  In collaboration with Special Collections, we will conduct oral history interviews and gather other historical materials for this multi  staged class research project.",
+    "courseDescription": "Chronicling COVID  19: Capturing the Pandemic Experience in Vermont The COVID  19 pandemic has altered our lives and challenged the way our communities and institutions operate.  The availability of vaccines has made it possible to gain some perspective on COVID and its impact.  In this course we will work as chroniclers and interpreters of the local community's responses to COVID.  In addition to situating COVID among other notable public health emergencies in Vermont   the 1918 pandemic, the 1927 flood, and the 2011 Irene disaster   we will explore the experiences of Addison County residents as they navigated this pandemic.  In collaboration with Special Collections, we will conduct oral history interviews and gather other historical materials for this multi  staged class research project.",
     "courseID": "HIST1041",
     "courseName": "Chronicling COVID  19",
     "departmentID": "HIST"
@@ -5868,13 +5868,13 @@
     "departmentID": "INTD"
   },
   {
-    "courseDescription": "The Biosphere Under Attack: Volcanoes, Impacts and Mass Extinctions The geological record shows that our biosphere was shaken half a dozen times in the past by major crises, known as great mass extinctions – the most recent installment being the End  Cretaceous demise of the dinosaurs and the vast majority of other species, 66 million years ago. Our course will review the purported causes of mass extinctions – asteroid impacts, volcanic upheavals, and other culprits still to be identified – and offers an original perspective to judge the severity and pace of the ongoing crisis that threatens our biosphere today, in the face of deforestation and climate change.",
+    "courseDescription": "The Biosphere Under Attack: Volcanoes, Impacts and Mass Extinctions The geological record shows that our biosphere was shaken half a dozen times in the past by major crises, known as great mass extinctions   the most recent installment being the End  Cretaceous demise of the dinosaurs and the vast majority of other species, 66 million years ago. Our course will review the purported causes of mass extinctions   asteroid impacts, volcanic upheavals, and other culprits still to be identified   and offers an original perspective to judge the severity and pace of the ongoing crisis that threatens our biosphere today, in the face of deforestation and climate change.",
     "courseID": "INTD1020",
     "courseName": "The Biosphere Under Attack",
     "departmentID": "INTD"
   },
   {
-    "courseDescription": "Oratory Lab    Speechwriting What changes when, instead of writing to an imagined reader, we stand and speak to a live audience? Can learning to present with more clarity and conviction make us better writers? And what about coaching? Does learning to help others communicate more effectively make us more effective as well? These are among the questions we'll explore in the O  Lab – Oratory Now's new research and development wing. Students will progress through a series of short writing and speaking assignments designed to increase both comfort and connection to the audience. The course will culminate in a speechwriting showcase open to the public.",
+    "courseDescription": "Oratory Lab    Speechwriting What changes when, instead of writing to an imagined reader, we stand and speak to a live audience? Can learning to present with more clarity and conviction make us better writers? And what about coaching? Does learning to help others communicate more effectively make us more effective as well? These are among the questions we'll explore in the O  Lab   Oratory Now's new research and development wing. Students will progress through a series of short writing and speaking assignments designed to increase both comfort and connection to the audience. The course will culminate in a speechwriting showcase open to the public.",
     "courseID": "INTD1035",
     "courseName": "Oratory Lab: Speechwriting",
     "departmentID": "INTD"
@@ -5922,7 +5922,7 @@
     "departmentID": "INTD"
   },
   {
-    "courseDescription": "Love in Action In this course we will study the power of love to effect social change. We will review historic and current episodes–including the Civil Rights Movement, post  Apartheid reconciliation in South Africa, and Black Lives Matter–to address longstanding injustice. We will learn from historic (e.g. John Lewis, James Baldwin) and contemporary (e.g., bell hooks) leaders who promote love as a  'force more powerful' and also study the limits of love in the pursuit of justice. During the course, members of the college community and external speakers will share their perspectives on the power and limits of love.",
+    "courseDescription": "Love in Action In this course we will study the power of love to effect social change. We will review historic and current episodes including the Civil Rights Movement, post  Apartheid reconciliation in South Africa, and Black Lives Matter to address longstanding injustice. We will learn from historic (e.g. John Lewis, James Baldwin) and contemporary (e.g., bell hooks) leaders who promote love as a  'force more powerful' and also study the limits of love in the pursuit of justice. During the course, members of the college community and external speakers will share their perspectives on the power and limits of love.",
     "courseID": "INTD1197",
     "courseName": "Love in Action",
     "departmentID": "INTD"
@@ -5952,7 +5952,7 @@
     "departmentID": "INTD"
   },
   {
-    "courseDescription": "Leadership: Building a Decision  Making Framework for Life College was the goal. Time is passing quickly. How will you prepare for the future? Students will develop a decision  making framework for life by exploring their core values and aspirations, crafting a personal narrative, and identifying longer  term life goals. We will discuss and test key components of effective leadership and build a leadership toolkit that includes goal setting, risk assessment, active listening, and strategic planning. Reading assignments – from Aristotle to Drucker – and writing assignments will complement class discussions, interactive exercises, and oral presentations. Guest speakers will participate and share their leadership stories, insights and lessons learned.",
+    "courseDescription": "Leadership: Building a Decision  Making Framework for Life College was the goal. Time is passing quickly. How will you prepare for the future? Students will develop a decision  making framework for life by exploring their core values and aspirations, crafting a personal narrative, and identifying longer  term life goals. We will discuss and test key components of effective leadership and build a leadership toolkit that includes goal setting, risk assessment, active listening, and strategic planning. Reading assignments   from Aristotle to Drucker   and writing assignments will complement class discussions, interactive exercises, and oral presentations. Guest speakers will participate and share their leadership stories, insights and lessons learned.",
     "courseID": "INTD1223",
     "courseName": "Leadership Framework for Life",
     "departmentID": "INTD"
@@ -6000,7 +6000,7 @@
     "departmentID": "INTD"
   },
   {
-    "courseDescription": "Big Data and Finance In this course we will explore the analysis and use of financial and economic datasets using a statistical framework such as R or SPSS.  Large volumes of data – either time series or from surveys – are increasingly found in many aspects of a business enterprise.  Effectively acquiring, cleaning, analyzing and interpreting such data is essential for the success of an enterprise and the stakeholders involved in its management.",
+    "courseDescription": "Big Data and Finance In this course we will explore the analysis and use of financial and economic datasets using a statistical framework such as R or SPSS.  Large volumes of data   either time series or from surveys   are increasingly found in many aspects of a business enterprise.  Effectively acquiring, cleaning, analyzing and interpreting such data is essential for the success of an enterprise and the stakeholders involved in its management.",
     "courseID": "INTD1246",
     "courseName": "Big Data and Finance",
     "departmentID": "INTD"
@@ -6096,7 +6096,7 @@
     "departmentID": "JAPN"
   },
   {
-    "courseDescription": "Sex, Money, and Violence – an Introduction to the Talmud The Talmud is the defining book of Jewish culture. Incredibly rich and varied, it has something to say about almost everything, usually something surprising. It is a book not simply to read, but to engage within dialogue. Due to its idiosyncratic language and unique form, it is not always easily accessible for the beginner. In this course we will learn about the fundamentals of the Talmudic text and then delve into selected passages, discovering together what the Talmud has to say about sex, money, violence, and an array of other topics relevant to modern life.",
+    "courseDescription": "Sex, Money, and Violence   an Introduction to the Talmud The Talmud is the defining book of Jewish culture. Incredibly rich and varied, it has something to say about almost everything, usually something surprising. It is a book not simply to read, but to engage within dialogue. Due to its idiosyncratic language and unique form, it is not always easily accessible for the beginner. In this course we will learn about the fundamentals of the Talmudic text and then delve into selected passages, discovering together what the Talmud has to say about sex, money, violence, and an array of other topics relevant to modern life.",
     "courseID": "JWST0263",
     "courseName": "Introduction to the Talmud",
     "departmentID": "JWST"
@@ -6222,7 +6222,7 @@
     "departmentID": "PSYC"
   },
   {
-    "courseDescription": "Sex, Money, and Violence – an Introduction to the Talmud The Talmud is the defining book of Jewish culture. Incredibly rich and varied, it has something to say about almost everything, usually something surprising. It is a book not simply to read, but to engage within dialogue. Due to its idiosyncratic language and unique form, it is not always easily accessible for the beginner. In this course we will learn about the fundamentals of the Talmudic text and then delve into selected passages, discovering together what the Talmud has to say about sex, money, violence, and an array of other topics relevant to modern life.",
+    "courseDescription": "Sex, Money, and Violence   an Introduction to the Talmud The Talmud is the defining book of Jewish culture. Incredibly rich and varied, it has something to say about almost everything, usually something surprising. It is a book not simply to read, but to engage within dialogue. Due to its idiosyncratic language and unique form, it is not always easily accessible for the beginner. In this course we will learn about the fundamentals of the Talmudic text and then delve into selected passages, discovering together what the Talmud has to say about sex, money, violence, and an array of other topics relevant to modern life.",
     "courseID": "RELI0263",
     "courseName": "Introduction to the Talmud",
     "departmentID": "RELI"
@@ -6870,7 +6870,7 @@
     "departmentID": "GEOG"
   },
   {
-    "courseDescription": "Urban Africa The era of rural Africa is over. Today, 40% of sub  Saharan Africans live in cities – seen as places with  social services, economic opportunities, and accessible technology. Yet, African cities are also places of unemployment, social services challenges, and increasing inequality. In this course we will take a  cross  disciplinary approach to the study of urban Africa through scholarly readings, media critiques,  discussions, and data analysis. We will identify similarities and differences in the process of  urbanization in Africa vis  à  vis other world regions. Students will actively contribute to our critical  inquiry into African cities through individual research projects and in  class presentations. 3 hrs. lect",
+    "courseDescription": "Urban Africa The era of rural Africa is over. Today, 40% of sub  Saharan Africans live in cities   seen as places with  social services, economic opportunities, and accessible technology. Yet, African cities are also places of unemployment, social services challenges, and increasing inequality. In this course we will take a  cross  disciplinary approach to the study of urban Africa through scholarly readings, media critiques,  discussions, and data analysis. We will identify similarities and differences in the process of  urbanization in Africa vis  à  vis other world regions. Students will actively contribute to our critical  inquiry into African cities through individual research projects and in  class presentations. 3 hrs. lect",
     "courseID": "GEOG0221",
     "courseName": "Urban Africa",
     "departmentID": "GEOG"
@@ -6948,7 +6948,7 @@
     "departmentID": "GRMN"
   },
   {
-    "courseDescription": "Contemporary Germany & Sustainability (In German) Already known as the country of poets and thinkers, Germany is becoming a land of ideas for sustainability and environmental innovation.  In this course we will take a closer look at the origins of the German environmental movement and explore the three major components of sustainability–economy, society, and environment–in contemporary Germany. We will draw on political, literary, and scientific texts, films, works of art, and online resources while making frequent comparisons with global developments. Texts include Quaschning's Trash Sorters, Muesli Eaters, and Climate Protectors: We Germans and our Environment, and Wagenhofer's We Feed the World. (GRMN 0202 or placement) 3 hrs lect./disc.",
+    "courseDescription": "Contemporary Germany & Sustainability (In German) Already known as the country of poets and thinkers, Germany is becoming a land of ideas for sustainability and environmental innovation.  In this course we will take a closer look at the origins of the German environmental movement and explore the three major components of sustainability economy, society, and environment in contemporary Germany. We will draw on political, literary, and scientific texts, films, works of art, and online resources while making frequent comparisons with global developments. Texts include Quaschning's Trash Sorters, Muesli Eaters, and Climate Protectors: We Germans and our Environment, and Wagenhofer's We Feed the World. (GRMN 0202 or placement) 3 hrs lect./disc.",
     "courseID": "GRMN0445",
     "courseName": "Contemp Germany&Sustainability",
     "departmentID": "GRMN"
@@ -7206,7 +7206,7 @@
     "departmentID": "INTD"
   },
   {
-    "courseDescription": "The Game of Go within Traditional Japanese Culture The ancient East Asian game of go will be introduced, studied, and developed within the context of  Japanese history and cultural traditions – especially that of the Edo Period. Game play, careful  analysis, and problem solving will be a key component of the course. Additionally, the art and  aesthetics of Japanese gardens and woodblock prints will be studied by the class as preparation for  individual research and presentation of an East Asian art form or tradition.",
+    "courseDescription": "The Game of Go within Traditional Japanese Culture The ancient East Asian game of go will be introduced, studied, and developed within the context of  Japanese history and cultural traditions   especially that of the Edo Period. Game play, careful  analysis, and problem solving will be a key component of the course. Additionally, the art and  aesthetics of Japanese gardens and woodblock prints will be studied by the class as preparation for  individual research and presentation of an East Asian art form or tradition.",
     "courseID": "INTD0123",
     "courseName": "Game of Go Japanese Culture",
     "departmentID": "INTD"
@@ -7746,7 +7746,7 @@
     "departmentID": "ANTH"
   },
   {
-    "courseDescription": "Africa and Anthropology: Power, Continuity, and Change Sub  Saharan Africa has long represented primitive mysteries for Europeans and North Americans, as a  'Dark Continent' full of exotic people and animals. Even now, many Americans learn little about Africa and Africans except for  'thin' media reports of political, economic, and ecological upheaval or persistent poverty, disease, and despair. This course provides a  'thick' description and analysis of contemporary African conditions using ethnographies and films. We will not be exploring  'traditional African cultures' outside of their historical contexts or generalizing about  'what African culture really is.' Rather, our focus will be on understanding social continuity and change alongside cultural diversity and commonality. Topics will include colonialism, critical kinship studies, African feminism, environmental management, witchcraft and religion. Throughout the course African ideas of power – what it is, who has it, and why –unify these diverse topics as social relations.",
+    "courseDescription": "Africa and Anthropology: Power, Continuity, and Change Sub  Saharan Africa has long represented primitive mysteries for Europeans and North Americans, as a  'Dark Continent' full of exotic people and animals. Even now, many Americans learn little about Africa and Africans except for  'thin' media reports of political, economic, and ecological upheaval or persistent poverty, disease, and despair. This course provides a  'thick' description and analysis of contemporary African conditions using ethnographies and films. We will not be exploring  'traditional African cultures' outside of their historical contexts or generalizing about  'what African culture really is.' Rather, our focus will be on understanding social continuity and change alongside cultural diversity and commonality. Topics will include colonialism, critical kinship studies, African feminism, environmental management, witchcraft and religion. Throughout the course African ideas of power   what it is, who has it, and why  unify these diverse topics as social relations.",
     "courseID": "ANTH0232",
     "courseName": "Africa and Anthropology",
     "departmentID": "ANTH"
@@ -8016,7 +8016,7 @@
     "departmentID": "ENGL"
   },
   {
-    "courseDescription": "The Modern Moment This course will explore the development of the modernist novel – and modernism in general     in the first half of the 20th century. We will examine issues of formal experimentation, new conceptions of character, and an ever  dawning consciousness of the catastrophic as seen in personal, cultural, and political venues.  Readings will include Conrad, Joyce, Forster, Kafka, Woolf, Lawrence, Mansfield, Waugh, and others.",
+    "courseDescription": "The Modern Moment This course will explore the development of the modernist novel   and modernism in general     in the first half of the 20th century. We will examine issues of formal experimentation, new conceptions of character, and an ever  dawning consciousness of the catastrophic as seen in personal, cultural, and political venues.  Readings will include Conrad, Joyce, Forster, Kafka, Woolf, Lawrence, Mansfield, Waugh, and others.",
     "courseID": "ENGL0244",
     "courseName": "The Modern Moment",
     "departmentID": "ENGL"
@@ -8364,7 +8364,7 @@
     "departmentID": "GEOG"
   },
   {
-    "courseDescription": "Intermediate Greek: Attic Prose  Lysias & Plato * Readings in major authors.",
+    "courseDescription": "Intermediate Greek: Attic Prose Lysias & Plato * Readings in major authors.",
     "courseID": "GREK0201",
     "courseName": "Intermediate Greek: Prose",
     "departmentID": "GREK"
@@ -8490,7 +8490,7 @@
     "departmentID": "HIST"
   },
   {
-    "courseDescription": "Contested Kyiv: Ukranian  Russian Relations in Historical Context Kyiv: capital of the Ukrainian nation? Or Kiev: cradle of Russian civilization? Russian President Vladimir Putin's 2021 claim that \"Russians and Ukrainians were one people – a single whole\" was a geopolitical maneuver; nonetheless, it highlighted a deeply intertwined and contested history. In this course we will explore the multifaceted history of Kyiv from its founding to the present day in order to better understand the entangled histories of the contemporary Ukrainian and Russian states. Central to our discussions will be primary and secondary sources that offer conflicting dynastic, religious and national histories which have sought to claim Kyiv as their own. We will also probe Kyiv's Jewish past to better understand the region's complex multi  confessional and multi  ethnic past. 3 hrs sem.",
+    "courseDescription": "Contested Kyiv: Ukranian  Russian Relations in Historical Context Kyiv: capital of the Ukrainian nation? Or Kiev: cradle of Russian civilization? Russian President Vladimir Putin's 2021 claim that \"Russians and Ukrainians were one people   a single whole\" was a geopolitical maneuver; nonetheless, it highlighted a deeply intertwined and contested history. In this course we will explore the multifaceted history of Kyiv from its founding to the present day in order to better understand the entangled histories of the contemporary Ukrainian and Russian states. Central to our discussions will be primary and secondary sources that offer conflicting dynastic, religious and national histories which have sought to claim Kyiv as their own. We will also probe Kyiv's Jewish past to better understand the region's complex multi  confessional and multi  ethnic past. 3 hrs sem.",
     "courseID": "HIST0334",
     "courseName": "Contested Kyiv",
     "departmentID": "HIST"
@@ -8766,7 +8766,7 @@
     "departmentID": "RELI"
   },
   {
-    "courseDescription": "Early Daoist Texts The two great early Daoist (Taoist) texts, the Daodejing (Tao te ching) and the Zhuangzi (Chuang–tzu)/, date from the Warring States period (475   221 BCE) of China and remain widely read and studied. We will read them closely and slowly, considering questions of authorship, audience, philosophical and religious content, and translation. We will wrestle at length with these wonderful and difficult texts, with attention primarily to their original context and secondarily to their reception and interpretation in later religion, philosophy, and literature in East Asia and beyond.",
+    "courseDescription": "Early Daoist Texts The two great early Daoist (Taoist) texts, the Daodejing (Tao te ching) and the Zhuangzi (Chuang tzu)/, date from the Warring States period (475   221 BCE) of China and remain widely read and studied. We will read them closely and slowly, considering questions of authorship, audience, philosophical and religious content, and translation. We will wrestle at length with these wonderful and difficult texts, with attention primarily to their original context and secondarily to their reception and interpretation in later religion, philosophy, and literature in East Asia and beyond.",
     "courseID": "RELI0221",
     "courseName": "Early Daoist Texts",
     "departmentID": "RELI"
@@ -8802,13 +8802,13 @@
     "departmentID": "RELI"
   },
   {
-    "courseDescription": "Gender and Sexuality in the Bible What does the Bible say about sex, marriage, and homosexuality? While many people claim \"the\" biblical perspective on this question, the Bible offers various–often complicated–stories and teachings about gender and sexuality. In this course, we will closely read key biblical passages concerning God's gender, marriage and divorce, family life, sexual violence, women's social status, asceticism, and sexual orientation. Special attention will be paid to the ancient Mediterranean sociocultural milieu within which ancient Israelites and early Christians constructed their ideas and practices about sex and gender. We will ultimately ask: how might our nuanced understanding of gender and sexuality in the Bible inform contemporary debates on sexual difference, gender inequality, and sexuality and social leadership?",
+    "courseDescription": "Gender and Sexuality in the Bible What does the Bible say about sex, marriage, and homosexuality? While many people claim \"the\" biblical perspective on this question, the Bible offers various often complicated stories and teachings about gender and sexuality. In this course, we will closely read key biblical passages concerning God's gender, marriage and divorce, family life, sexual violence, women's social status, asceticism, and sexual orientation. Special attention will be paid to the ancient Mediterranean sociocultural milieu within which ancient Israelites and early Christians constructed their ideas and practices about sex and gender. We will ultimately ask: how might our nuanced understanding of gender and sexuality in the Bible inform contemporary debates on sexual difference, gender inequality, and sexuality and social leadership?",
     "courseID": "RELI0283",
     "courseName": "Gender and Sexuality in Bible",
     "departmentID": "RELI"
   },
   {
-    "courseDescription": "Historical Jesus and the Gospels Who was Jesus of Nazareth? How does the historical Jesus differ from Jesus Christ in the Gospels? In this course we will explore how early Christians remembered Jesus and developed traditions about him. We will read both canonical (Matthew, Mark, Luke, John) and non  canonical (e.g., Thomas, Mary, Peter) Gospels within their historical and literary contexts, focusing on Judaism, the Roman Empire, and Greco–Roman cultures. We will then examine the critical approaches modern scholars take to reconstruct the historical Jesus' life. By comparing diverse portraits of Jesus both in ancient literature and in modern scholarship, we will evaluate such diversity's implications for our intellectual and cultural life today. How does the historical Jesus matter and for whom? 3hrs. lect.",
+    "courseDescription": "Historical Jesus and the Gospels Who was Jesus of Nazareth? How does the historical Jesus differ from Jesus Christ in the Gospels? In this course we will explore how early Christians remembered Jesus and developed traditions about him. We will read both canonical (Matthew, Mark, Luke, John) and non  canonical (e.g., Thomas, Mary, Peter) Gospels within their historical and literary contexts, focusing on Judaism, the Roman Empire, and Greco Roman cultures. We will then examine the critical approaches modern scholars take to reconstruct the historical Jesus' life. By comparing diverse portraits of Jesus both in ancient literature and in modern scholarship, we will evaluate such diversity's implications for our intellectual and cultural life today. How does the historical Jesus matter and for whom? 3hrs. lect.",
     "courseID": "RELI0285",
     "courseName": "Historical Jesus and Gospels",
     "departmentID": "RELI"
@@ -9072,7 +9072,7 @@
     "departmentID": "GSFS"
   },
   {
-    "courseDescription": "Museum Studies: Exhibit Design In this course we will explore the many aspects of the exhibit design process in a museum setting–from object care and interpretation through space analysis, display furniture design, graphics, and lighting. Utilizing digital images, readings, and discussions, the class will explore the history of exhibit design from Victorian curiosity rooms to current trends in interactive exhibits and designing for the disabled. Through hands  on exercises, model making, and electronic CAD and graphics programs, students will experiment with exhibit lighting, gallery layouts, and graphic design. Students will keep a daily design journal and as a final project, each student will present a formal design proposal of a particular museum installation.  This course will count as an elective towards the History of Art Major.",
+    "courseDescription": "Museum Studies: Exhibit Design In this course we will explore the many aspects of the exhibit design process in a museum setting from object care and interpretation through space analysis, display furniture design, graphics, and lighting. Utilizing digital images, readings, and discussions, the class will explore the history of exhibit design from Victorian curiosity rooms to current trends in interactive exhibits and designing for the disabled. Through hands  on exercises, model making, and electronic CAD and graphics programs, students will experiment with exhibit lighting, gallery layouts, and graphic design. Students will keep a daily design journal and as a final project, each student will present a formal design proposal of a particular museum installation.  This course will count as an elective towards the History of Art Major.",
     "courseID": "HARC1010",
     "courseName": "Museum Studies: Exhibit Design",
     "departmentID": "HARC"
@@ -9084,7 +9084,7 @@
     "departmentID": "INTD"
   },
   {
-    "courseDescription": "Climate and Crypto In this course we will explore the intersection of two seemingly contrasting ideas: Climate and Crypto. Climate Change is a mass coordination problem and Crypto (or web3) is a mass coordination tool. Together we will first begin to understand the mechanics and economics of web3. We will then look at the broader climate problem and begin to see where the alignment and incentives of this new economic and technological paradigm can help with climate – in carbon markets, biodiversity, land conservation, and beyond.",
+    "courseDescription": "Climate and Crypto In this course we will explore the intersection of two seemingly contrasting ideas: Climate and Crypto. Climate Change is a mass coordination problem and Crypto (or web3) is a mass coordination tool. Together we will first begin to understand the mechanics and economics of web3. We will then look at the broader climate problem and begin to see where the alignment and incentives of this new economic and technological paradigm can help with climate   in carbon markets, biodiversity, land conservation, and beyond.",
     "courseID": "INTD1002",
     "courseName": "Climate and Crypto",
     "departmentID": "INTD"
@@ -9144,7 +9144,7 @@
     "departmentID": "INTD"
   },
   {
-    "courseDescription": "Conflict Transformation: Approaches and Skills This course will introduce to students to a variety of approaches to conflict transformation (CT), including intercultural competence, mediation, restorative practices, and structured dialogue. CT skills enrich classroom learning and prepare students to be effective citizens in a polarized public square. To transform conflict, we must first understand the nature of conflict and then develop tools to build healthy relationships and communities – locally, nationally, and globally. Students will learn about the drivers of conflict and then practice CT skills in the course. This course is part of a Middlebury  wide CT initiative, and this course foundational for students who wish to pursue practicum or research opportunities in other CT programs.",
+    "courseDescription": "Conflict Transformation: Approaches and Skills This course will introduce to students to a variety of approaches to conflict transformation (CT), including intercultural competence, mediation, restorative practices, and structured dialogue. CT skills enrich classroom learning and prepare students to be effective citizens in a polarized public square. To transform conflict, we must first understand the nature of conflict and then develop tools to build healthy relationships and communities   locally, nationally, and globally. Students will learn about the drivers of conflict and then practice CT skills in the course. This course is part of a Middlebury  wide CT initiative, and this course foundational for students who wish to pursue practicum or research opportunities in other CT programs.",
     "courseID": "INTD1259",
     "courseName": "Conflict Transformation Skills",
     "departmentID": "INTD"
